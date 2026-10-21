@@ -1,0 +1,1 @@
+import{i as e,n as t,t as n}from"./account.QXDCiPD1.js";var r=document.getElementById(`join`),i=document.getElementById(`join-btn`);n?(i?.addEventListener(`click`,()=>e(location.href)),t(e=>{r&&(r.hidden=!!e)})):i?.addEventListener(`click`,()=>{location.href=`/patterneddreams/account`});
